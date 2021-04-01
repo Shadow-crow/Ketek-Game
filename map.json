@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"spades"
                 }],
@@ -71,7 +71,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"quake"
                 }],
